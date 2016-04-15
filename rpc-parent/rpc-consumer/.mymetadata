@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="rpc-consumer Maven Webapp"
+  id="myeclipse.1459223237237"
+  context-root="/rpc-consumer"
+  j2ee-spec="6.0"
+  archive="rpc-consumer Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
